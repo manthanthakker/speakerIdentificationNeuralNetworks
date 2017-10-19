@@ -1,1 +1,0 @@
-![Optional Text](readme.pdf)
