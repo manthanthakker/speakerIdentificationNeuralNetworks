@@ -36,7 +36,9 @@
 clear all;clc;trai_pairs=210;out_neurons=3;hid_neurons=6;in_nodes=3;
 eata=0.25;emax=0.001;q=1;e=0;lamda=1;  t=1;
 tic
-%load feature.mat result
+load feature.mat result
+
+%sample features (13 coefficients MFCC Features)
 %zzz=[7.977	1.386	0.584	1.769	1.918	2.17	1.46	0.525	1.721	1.496	0.88	0.177	0.205;
 %9.738	0.029	0.026	0.082	0.065	0.019	0.09	0.077	1.545	0.058	0.049	0.006	0.009;
 %12.745	0.074	0.134	0.257	0.075	0.231	0.284	0.019	0.227	0.183	0.021	0.101	0.031;
