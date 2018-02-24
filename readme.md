@@ -9,4 +9,4 @@ Keywords: Speaker identification, neural network, Multi- Speaker, Mel Frequency 
 
 [Research Paper](https://link.springer.com/chapter/10.1007/978-981-10-3920-1_24) published in Springer Journal.
 
-For more details: download file ResearchPaper.pdf, projectreport.pdf
+For more details: download file ResearchPaper.pdf, projectreport
