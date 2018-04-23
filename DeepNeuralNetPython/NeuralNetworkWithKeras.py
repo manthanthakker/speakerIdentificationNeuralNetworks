@@ -12,6 +12,7 @@ data = pd.read_csv("/Users/trailbrazer/Desktop/udemy/DataScience-Python3/mammogr
 ## Preprocessing using Pandas
 data.dropna(inplace=True)
 
+#Splitting Training and Testing Data
 trainingData = data.iloc[:700, 0:4]
 trainingLabel = data.iloc[:700, 5]
 
